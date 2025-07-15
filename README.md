@@ -18,5 +18,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
     
 ## 📫 Contato
-📧 Email: [marco.antonio@email.com](mailto:marco.antoniogl99@hotmail.com)  
+📧 Email: [marco.antoniogl99@hotmail.com](mailto:marco.antoniogl99@hotmail.com)  
 💼 LinkedIn: [linkedin.com/in/marco-antonio](https://www.linkedin.com/in/marco-antonio-gomes-de-lima-043b91195/)
